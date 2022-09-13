@@ -117,7 +117,7 @@ textarea {
     text-transform: uppercase;
   }
   header{
-    background-image: url(../img/Hero.jpg);
+    background-image: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -247,87 +247,6 @@ textarea {
   .smoelenboek span{
     display: flex;
     justify-content: center;
-  }
-  .quotation {
-    background: url(../img/img-sprite.png)no-repeat -81px -91px;
-    width: 40px;
-    height: 40px;
-    float: right;
-  }
-  .style{
-    background-image: url(../img/Contact_photo.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    color: #FFFFFF;
-    text-transform: uppercase;
-    font-weight: bolder;
-    padding: 5%;
-  }
-  #con{
-    text-decoration: underline;
-  }
-  .contact{
-    color: #FFFFFF;
-    text-transform: uppercase;
-    font-size: 1.8em;
-  }
-  textarea{
-    background-color: transparent;
-    border: solid 3px #FFFFFF;
-    padding: 12px;
-  }
-  input{
-    background-color: transparent;
-    border: solid 2px #FFFFFF;
-    padding: 10px;
-    padding-right: 70px;
-    padding-left: 70px;
-  }
-  #submit{
-    border: solid 2px transparent;
-    margin-top: 15px;
-    background-color: #4bcaff;
-    padding: 12px;
-    color: #FFFFFF;
-    padding-right: 85px;
-    padding-left: 85px;
-  }
-  input, label{
-    display:block;
-  }
-  .contact-p{
-    position: relative; top: -498px;
-    display: block;
-    margin-left: 45%;
-    margin-right: auto;
-    width: 30%;
-    font-weight: normal;
-    font-size: 14px;
-  }
-  .contact-p2{
-    position: relative; top: -470px;
-    display: block;
-    margin-left: 45%;
-    margin-right: auto;
-    width: 30%;
-    font-weight: normal;
-    font-size: 14px;
-  }
-  .linda{
-    text-transform: none;
-  }
-  .adress1{
-    display: block;
-    text-transform: none;
-  }
-  .adress2{
-    display: block;
-    text-transform: none;
-  }
-  .pnumber{
-    display: block;
-    text-transform: none;
   }
   footer{
     background-color: #4a545c;
